@@ -1,1 +1,2 @@
-Text fileHi this is 
+Text file
+HI ! have a nice day!
